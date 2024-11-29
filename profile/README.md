@@ -10,12 +10,12 @@
 
 <div style="display: flex; align-items: center; gap: 8px;">
   <span>1. List Product</span>
-  <img src="https://github.com/user-attachments/assets/f41fc25c-3509-48a3-97e4-886558f4718a" alt="1" height="24">
+  <img src="https://github.com/user-attachments/assets/f41fc25c-3509-48a3-97e4-886558f4718a" alt="1" height="400">
 </div>
 
 <div style="display: flex; align-items: center; gap: 8px;">
   <span>2. List Article</span>
-  <img src="https://github.com/user-attachments/assets/fd9a32d7-c8aa-4c32-a4ec-28af22dfd222" alt="2" height="24">
+  <img src="https://github.com/user-attachments/assets/fd9a32d7-c8aa-4c32-a4ec-28af22dfd222" alt="2" height="400">
 </div>
 
 <div style="display: flex; align-items: center; gap: 8px;">
