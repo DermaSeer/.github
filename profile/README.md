@@ -7,12 +7,13 @@
 <small>**DermaSeer** is an android-based mobile application that aims to provide solutions for people who have difficulty in choosing the right skincare products, especially when it comes to treating acne according to their skin type. Through this app, we offer an acne type detection system and skincare product recommendations that help users make more informed decisions. </small>
 
 **Key Features**:
+
 <strong>1. Product Exploration</strong>  
-<img src="https://github.com/user-attachments/assets/f41fc25c-3509-48a3-97e4-886558f4718a" alt="Product Exploration" width="800" style="display: block; margin: 10px 0;" />  
+<img src="https://github.com/user-attachments/assets/f41fc25c-3509-48a3-97e4-886558f4718a" alt="Product Exploration" width="700" style="display: block; margin: 10px 0;" />  
 Users can see a list of products related to skincare. The product list consists of 5 categories: Moisturizer, Toner, Serum, Facewash, and Sunscreen.
 
 <strong>2. Article Exploration</strong>  
-<img src="https://github.com/user-attachments/assets/fd9a32d7-c8aa-4c32-a4ec-28af22dfd222" alt="Article Exploration" width="400" style="display: block; margin: 10px 0;" />  
+<img src="https://github.com/user-attachments/assets/fd9a32d7-c8aa-4c32-a4ec-28af22dfd222" alt="Article Exploration" width="700" style="display: block; margin: 10px 0;" />  
 Explore various articles to improve your knowledge about health, skincare, and other important topics.
 
 <strong>3. Product Recommendation</strong>  
