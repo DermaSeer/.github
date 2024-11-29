@@ -9,15 +9,21 @@
 **Key Features**:
 
 <strong>1. Product Exploration</strong>  
+
 <img src="https://github.com/user-attachments/assets/f41fc25c-3509-48a3-97e4-886558f4718a" alt="Product Exploration" width="700" style="display: block; margin: 10px 0;" />  
+
 Users can see a list of products related to skincare. The product list consists of 5 categories: Moisturizer, Toner, Serum, Facewash, and Sunscreen.
 
 <strong>2. Article Exploration</strong>  
+
 <img src="https://github.com/user-attachments/assets/fd9a32d7-c8aa-4c32-a4ec-28af22dfd222" alt="Article Exploration" width="700" style="display: block; margin: 10px 0;" />  
+
 Explore various articles to improve your knowledge about health, skincare, and other important topics.
 
 <strong>3. Product Recommendation</strong>  
+
 <img src="https://via.placeholder.com/400" alt="Product Recommendation" width="800" style="display: block; margin: 10px 0;" />  
+
 Get personalized product recommendations based on acne and other skincare problems to find the best solutions for your needs.
 
    
