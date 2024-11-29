@@ -1,6 +1,6 @@
 ## Welcome to DermaSeer Page👋
 ### Introducing DermaSeer!
-![Introduction DermaSeer](https://github.com/user-attachments/assets/04f28145-9a82-40b2-9d9a-28958497c113)
+[Introduction-Derma-Seer.png](https://postimg.cc/CZ0tzJhz)
 
 <small>Health Innovation: Empowering Vulnerable Communities for Health and Well-being</small>
 
@@ -10,13 +10,13 @@
 
 <strong>1. Product Exploration</strong>  
 
-<img src="https://github.com/user-attachments/assets/f41fc25c-3509-48a3-97e4-886558f4718a" alt="Product Exploration" width="600" style="display: block; margin: 10px 0;" />  
+<img src="https://i.postimg.cc/Pxn03fWT/1.png" alt="Product Exploration" width="600" style="display: block; margin: 10px 0;" />  
 
 Users can see a list of products related to skincare. The product list consists of 5 categories: Moisturizer, Toner, Serum, Facewash, and Sunscreen.
 
 <strong>2. Article Exploration</strong>  
 
-<img src="https://github.com/user-attachments/assets/fd9a32d7-c8aa-4c32-a4ec-28af22dfd222" alt="Article Exploration" width="600" style="display: block; margin: 10px 0;" />  
+<img src="https://i.postimg.cc/vBjxFjmY/2.png" alt="Article Exploration" width="600" style="display: block; margin: 10px 0;" />  
 
 Explore various articles to improve your knowledge about health, skincare, and other important topics.
 
