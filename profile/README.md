@@ -1,6 +1,6 @@
 ## Welcome to DermaSeer Page👋
 ### Introducing DermaSeer!
-![Introduction-Derma-Seer.png](https://postimg.cc/CZ0tzJhz)
+[![Introduction-Derma-Seer.png](https://i.postimg.cc/3w0HfbzC/Introduction-Derma-Seer.png)](https://postimg.cc/CZ0tzJhz)
 
 <small>Health Innovation: Empowering Vulnerable Communities for Health and Well-being</small>
 
