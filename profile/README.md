@@ -22,7 +22,7 @@ Explore various articles to improve your knowledge about health, skincare, and o
 
 <strong>3. Product Recommendation</strong>  
 
-<img src="https://via.placeholder.com/400" alt="Product Recommendation" width="800" style="display: block; margin: 10px 0;" />  
+<img src="" alt="Product Recommendation" width="800" style="display: block; margin: 10px 0;" />  
 
 Get personalized product recommendations based on acne and other skincare problems to find the best solutions for your needs.
 
