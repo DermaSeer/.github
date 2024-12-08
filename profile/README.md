@@ -65,6 +65,6 @@ Dataset Links for this Project :
 🔥 **Supported By**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/de8cf37a-1824-4a40-9be0-2c413b62b1da" width="150" />
-  <img src="https://github.com/user-attachments/assets/7fad06c0-10cf-4320-adc0-cfbe33296a4d" width="150" />
+  <img src="https://github.com/user-attachments/assets/7364e102-78bb-4bec-b636-fdab2464054b" width="105" />
+  <img src="https://github.com/user-attachments/assets/f0b8ed65-07e5-435d-8579-4afb037b6c90" width="50" />
 </p>
