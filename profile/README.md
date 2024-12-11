@@ -7,23 +7,23 @@
 
 **Key Features**:
 
-<strong>1. Product Exploration</strong>  
+<strong>1. Acne Analyis and Product Recommendation Using Generative AI</strong>  
+
+<img src="https://github.com/DermaSeer/.github/blob/main/profile/Product%20Recommendation.png" alt="Product Recommendation" width="600" style="display: block; margin: 10px 0;" />  
+
+Get personalized product recommendations from generative AI based on acne and other skincare problems to find the best solutions for your needs.
+
+<strong>2. Product Exploration</strong>  
 
 <img src="https://github.com/DermaSeer/.github/blob/main/profile/product%20Exploration.png" alt="Product Exploration" width="600" style="display: block; margin: 10px 0;" />  
 
 Users can see a list of products related to skincare. The product list consists of 5 categories: Moisturizer, Toner, Serum, Facewash, and Sunscreen.
 
-<strong>2. Article Exploration</strong>  
+<strong>3. List of Article</strong>  
 
 <img src="https://github.com/DermaSeer/.github/blob/main/profile/article.png" alt="Article Exploration" width="600" style="display: block; margin: 10px 0;" />  
 
 Explore various articles to improve your knowledge about health, skincare, and other important topics.
-
-<strong>3. Product Recommendation</strong>  
-
-<img src="https://github.com/DermaSeer/.github/blob/main/profile/Product%20Recommendation.png" alt="Product Recommendation" width="600" style="display: block; margin: 10px 0;" />  
-
-Get personalized product recommendations from generative AI based on acne and other skincare problems to find the best solutions for your needs.
 
 <strong>4. History Scan</strong>
 
