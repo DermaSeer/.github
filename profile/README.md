@@ -53,7 +53,7 @@ Dataset Links for this Project :
 [Prototype](https://www.figma.com/design/q0YmyVI2nAxzClVI1rpWRV/DermaSeer-App?node-id=0-1&node-type=canvas&t=ASkAyM0gZ2leFCTN-0)
 
 ## Deployment Link APK DermaSeer
-[DermaSeer App](#)
+[DermaSeer App](https://drive.google.com/drive/folders/1jhij40qg7kvzUe8eQANXjaJQwQIdYFC2?usp=drive_link )
 
 ## Languages and Tools:
 
