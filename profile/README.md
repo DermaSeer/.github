@@ -70,5 +70,5 @@ Dataset Links for this Project :
 
 <p align="center">
   <img src="https://github.com/DermaSeer/.github/blob/main/profile/bangkit.png" width="105" />
-  <img src="https://github.com/DermaSeer/.github/blob/main/profile/Kampus%20merdeka.png" width="50" />
+  <img src="https://github.com/DermaSeer/.github/blob/main/profile/Kampus%20merdeka.png" width="105" />
 </p>
