@@ -27,7 +27,7 @@ Get personalized product recommendations from generative AI based on acne and ot
 
 <strong>4. History Scan</strong>
 
-<img src="https://github.com/DermaSeer/.github/blob/main/profile/Product%20Recommendation.png" alt="Product Recommendation" width="600" style="display: block; margin: 10px 0;" /> 
+<img src="https://github.com/DermaSeer/.github/blob/main/profile/History.png" alt="Product Recommendation" width="600" style="display: block; margin: 10px 0;" /> 
 
 Users can review their scan history
 
